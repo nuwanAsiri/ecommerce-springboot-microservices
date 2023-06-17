@@ -35,6 +35,7 @@ To run this e-commerce application locally, follow these steps:
 **Note:** Make sure you have Java and Docker installed on your local machine before proceeding.
 
 **Note: We have created issues for the task break down. You can follow them to complete the project.**
+[Issue Link] (https://github.com/nuwanAsiri/ecommerce-springboot-microservices-template/issues)
 
 ## Contributing
 
