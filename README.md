@@ -36,7 +36,7 @@ To run this e-commerce application locally, follow these steps:
 
 **Note: We have created issues for the task break down. You can follow them to complete the project.**
 
-[Issue Link](https://github.com/nuwanAsiri/ecommerce-springboot-microservices-template/issues)
+[Issue Link](https://github.com/nuwanAsiri/ecommerce-springboot-microservices-template/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
 
 ## Contributing
 
