@@ -33,6 +33,7 @@ To run this e-commerce application locally, follow these steps:
 5. Access the application at: **`http://localhost:8080`**
 
 **Note:** Make sure you have Java and Docker installed on your local machine before proceeding.
+**Note:** We have created issues for the task break down. You can follow them to complete the project.
 
 ## Contributing
 
